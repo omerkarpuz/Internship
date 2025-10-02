@@ -1,0 +1,14 @@
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe.config
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.exe
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\bin\Debug\Personel_Kayit.pdb
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.AssemblyReference.cache
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Properties.Resources.resources
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.GenerateResource.cache
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.pdb
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.exe.config
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.Frmistatistik.resources
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmAna.resources
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGrafik.resources
+C:\Users\AYZ_01\omervs\repos\Personel_Kayit\Personel_Kayit\obj\Debug\Personel_Kayit.FrmGiris.resources
